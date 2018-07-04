@@ -6,6 +6,6 @@
 * 7月3日：
   * [调整数组顺序使奇数位于偶数前面](https://github.com/Kewei0323/Codes/blob/master/CodingInterviews/%E6%95%B0%E7%BB%84%E4%B8%AD%E5%A5%87%E5%89%8D%E5%81%B6%E5%90%8E.cpp)；
 * 7月4日：
-  * [链表中倒数第K个结点]（https://github.com/Kewei0323/Codes/blob/master/CodingInterviews/%E9%93%BE%E8%A1%A8%E5%80%92%E6%95%B0%E7%AC%ACk%E4%B8%AA%E7%BB%93%E7%82%B9.cpp）；
+  * [链表中倒数第K个结点](https://github.com/Kewei0323/Codes/blob/master/CodingInterviews/%E9%93%BE%E8%A1%A8%E5%80%92%E6%95%B0%E7%AC%ACk%E4%B8%AA%E7%BB%93%E7%82%B9.cpp)；
 * 7月5日：
   * 
