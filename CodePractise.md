@@ -17,3 +17,5 @@
   * [顺时针打印矩阵](https://github.com/Kewei0323/Codes/blob/master/CodingInterviews/%E9%A1%BA%E6%97%B6%E9%92%88%E6%89%93%E5%8D%B0%E7%9F%A9%E9%98%B5.cpp)；
 * 7月8日：
   * [包含min函数的栈](https://github.com/Kewei0323/Codes/blob/master/CodingInterviews/%E5%8C%85%E5%90%ABmin%E5%87%BD%E6%95%B0%E7%9A%84%E6%A0%88.cpp)；
+* 7月9日：
+  * [栈的压入、弹出序列](https://github.com/Kewei0323/Codes/blob/master/CodingInterviews/%E6%A0%88%E7%9A%84%E5%8E%8B%E5%85%A5%E3%80%81%E5%BC%B9%E5%87%BA%E5%BA%8F%E5%88%97.cpp)；
