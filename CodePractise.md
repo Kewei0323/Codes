@@ -28,3 +28,4 @@
   * [二叉搜索树与双向链表](https://github.com/Kewei0323/Codes/blob/master/CodingInterviews/16.%20%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E4%B8%8E%E5%8F%8C%E5%90%91%E9%93%BE%E8%A1%A8.cpp)；
 * 7月20日：
   * [字符串的排列](https://github.com/Kewei0323/Codes/blob/master/CodingInterviews/17.%20%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E6%8E%92%E5%88%97.cpp)；
+  * [连续子数组的最大和](https://github.com/Kewei0323/Codes/blob/master/CodingInterviews/18.%20%E8%BF%9E%E7%BB%AD%E5%AD%90%E6%95%B0%E7%BB%84%E7%9A%84%E6%9C%80%E5%A4%A7%E5%92%8C.cpp)；
