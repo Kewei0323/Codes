@@ -4,4 +4,4 @@
 * [快速排序](https://github.com/Kewei0323/Codes/blob/master/Hands-on%20code/SortAlgorithms/quickSort.cpp)；
 ### 插入排序
 * [直接插入排序](https://github.com/Kewei0323/Codes/blob/master/Hands-on%20code/SortAlgorithms/insertSort.cpp)；
-* [希尔排序(缩小增量排序)](https://github.com/Kewei0323/Codes/blob/master/Hands-on%20code/SortAlgorithms/shellSort.cpp)；
+* [希尔排序（缩小增量排序）](https://github.com/Kewei0323/Codes/blob/master/Hands-on%20code/SortAlgorithms/shellSort.cpp)；
