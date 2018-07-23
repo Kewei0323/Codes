@@ -5,3 +5,6 @@
 ### 插入排序
 * [直接插入排序](https://github.com/Kewei0323/Codes/blob/master/Hands-on%20code/SortAlgorithms/insertSort.cpp)；
 * [希尔排序（缩小增量排序）](https://github.com/Kewei0323/Codes/blob/master/Hands-on%20code/SortAlgorithms/shellSort.cpp)；
+### 选择排序
+* [直接选择排序](https://github.com/Kewei0323/Codes/blob/master/Hands-on%20code/SortAlgorithms/selectSort.cpp)；
+* [堆排序]()；
