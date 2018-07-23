@@ -4,6 +4,7 @@ void insertSort(int *arr, int n){
 	for(int i = 1; i < n; i++){
 		int j = i - 1;
 		int tmp = arr[i];
+		
 		if(arr[j] > arr[i]){			
 			while(j >= 0 && tmp < arr[j]){
 				arr[j+1] = arr[j];
