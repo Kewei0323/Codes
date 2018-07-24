@@ -8,3 +8,5 @@
 ### 选择排序
 * [直接选择排序](https://github.com/Kewei0323/Codes/blob/master/Hands-on%20code/SortAlgorithms/selectSort.cpp)；
 * [堆排序](https://github.com/Kewei0323/Codes/blob/master/Hands-on%20code/SortAlgorithms/heapSort.cpp)；
+### [归并排序](https://github.com/Kewei0323/Codes/blob/master/Hands-on%20code/SortAlgorithms/mergeSort.cpp)；
+### 基数排序
