@@ -34,3 +34,4 @@
   * [丑数](https://github.com/Kewei0323/Codes/blob/master/CodingInterviews/21.%20%E4%B8%91%E6%95%B0.cpp)；
 * 7月21日：
   * [第一个只出现一次的字符](https://github.com/Kewei0323/Codes/blob/master/CodingInterviews/22.%20%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E5%AD%97%E7%AC%A6.cpp);
+  * [数组中的逆序对](https://github.com/Kewei0323/Codes/blob/master/CodingInterviews/23.%20%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%80%86%E5%BA%8F%E5%AF%B9.cpp)；
