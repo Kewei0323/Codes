@@ -2,16 +2,18 @@ class Solution {
 public:
     vector<int> FindNumbersWithSum(vector<int> array,int sum) {
         int len = array.size();
-        int i = 0, j = len - 1;
+        vector<int> arr2;
+        if(len == 0){
+            return arr2;
+        }
+        int i = 0, j = len-1;
         int count = INT_MAX;
         
-        vector<int> arr2;
-        
         while(i < j){
-            if(array[i] + array[j] < sum){
-                i++;
-            }else if(array[i] + array[j] > sum){
+            if(array[i] + array[j] > sum){
                 j--;
+            }else if(array[i] + array[j] < sum){
+                i++;
             }else{
                 if(count > array[i]*array[j]){
                     count = array[i]*array[j];
