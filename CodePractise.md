@@ -41,5 +41,6 @@
   * [数字在排序数组中出现的次数](https://github.com/Kewei0323/Codes/blob/master/CodingInterviews/25.%20%E6%95%B0%E5%AD%97%E5%9C%A8%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E5%87%BA%E7%8E%B0%E7%9A%84%E6%AC%A1%E6%95%B0.cpp);
   * [二叉树的深度](https://github.com/Kewei0323/Codes/blob/master/CodingInterviews/26.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%B7%B1%E5%BA%A6.cpp)；
   * [平衡二叉树](https://github.com/Kewei0323/Codes/blob/master/CodingInterviews/27.%20%E5%B9%B3%E8%A1%A1%E4%BA%8C%E5%8F%89%E6%A0%91.cpp)；
-  
+* 8月9日：
+  * [数组中只出现一次的数字](https://github.com/Kewei0323/Codes/blob/master/CodingInterviews/28.%20%E6%95%B0%E7%BB%84%E4%B8%AD%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E6%95%B0%E5%AD%97.cpp);
   
