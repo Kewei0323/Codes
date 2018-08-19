@@ -45,4 +45,6 @@
   * [数组中只出现一次的数字](https://github.com/Kewei0323/Codes/blob/master/CodingInterviews/28.%20%E6%95%B0%E7%BB%84%E4%B8%AD%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E6%95%B0%E5%AD%97.cpp);
   * [和为S的两个数字](https://github.com/Kewei0323/Codes/blob/master/CodingInterviews/29.%20%E5%92%8C%E4%B8%BAS%E7%9A%84%E4%B8%A4%E4%B8%AA%E6%95%B0%E5%AD%97.cpp)；
   * [和为S的连续正数序列](https://github.com/Kewei0323/Codes/blob/master/CodingInterviews/30.%20%E5%92%8C%E4%B8%BAS%E7%9A%84%E8%BF%9E%E7%BB%AD%E6%AD%A3%E6%95%B0%E5%BA%8F%E5%88%97.cpp)；
+* 8月19日：
+  * [翻转单词顺序列](https://github.com/Kewei0323/Codes/blob/master/CodingInterviews/31.%20%E7%BF%BB%E8%BD%AC%E5%8D%95%E8%AF%8D%E9%A1%BA%E5%BA%8F%E5%88%97.cpp)；
   
