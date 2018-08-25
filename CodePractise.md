@@ -49,6 +49,8 @@
   * [翻转单词顺序列](https://github.com/Kewei0323/Codes/blob/master/CodingInterviews/31.%20%E7%BF%BB%E8%BD%AC%E5%8D%95%E8%AF%8D%E9%A1%BA%E5%BA%8F%E5%88%97.cpp)；
   * [左旋转字符串](https://github.com/Kewei0323/Codes/blob/master/CodingInterviews/32.%20%E5%B7%A6%E6%97%8B%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2.cpp)；
   * [扑克牌顺子](https://github.com/Kewei0323/Codes/blob/master/CodingInterviews/33.%20%E6%89%91%E5%85%8B%E7%89%8C%E9%A1%BA%E5%AD%90.cpp)；
-  * []()；
+* 8月25日：
+  * [圆圈中最后剩下的数字](https://github.com/Kewei0323/Codes/blob/master/CodingInterviews/34.%20%E5%9C%86%E5%9C%88%E4%B8%AD%E6%9C%80%E5%90%8E%E5%89%A9%E4%B8%8B%E7%9A%84%E6%95%B0%E5%AD%97.cpp)；
+  * [求1+2+3+...+n](https://github.com/Kewei0323/Codes/blob/master/CodingInterviews/35.%20%E6%B1%821%2B2%2B3%2B...%2Bn.cpp)；
   
   
