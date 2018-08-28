@@ -57,4 +57,5 @@
   * [n个骰子的点数和及其概率](https://github.com/Kewei0323/Codes/blob/master/CodingInterviews/37.%20n%E4%B8%AA%E9%AA%B0%E5%AD%90%E7%9A%84%E7%82%B9%E6%95%B0%E5%92%8C%E5%8F%8A%E5%85%B6%E6%A6%82%E7%8E%87.cpp)；
 * 8月28日：
   * [构建乘积数组](https://github.com/Kewei0323/Codes/blob/master/CodingInterviews/38.%20%E6%9E%84%E5%BB%BA%E4%B9%98%E7%A7%AF%E6%95%B0%E7%BB%84.cpp)；
+  * [字符串转换为整数](https://github.com/Kewei0323/Codes/blob/master/CodingInterviews/39.%20%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%BD%AC%E5%8C%96%E4%B8%BA%E6%95%B4%E6%95%B0.cpp)；
   
