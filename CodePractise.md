@@ -58,4 +58,5 @@
 * 8月28日：
   * [构建乘积数组](https://github.com/Kewei0323/Codes/blob/master/CodingInterviews/38.%20%E6%9E%84%E5%BB%BA%E4%B9%98%E7%A7%AF%E6%95%B0%E7%BB%84.cpp)；
   * [字符串转换为整数](https://github.com/Kewei0323/Codes/blob/master/CodingInterviews/39.%20%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%BD%AC%E5%8C%96%E4%B8%BA%E6%95%B4%E6%95%B0.cpp)；
+  * [正则表达式匹配](https://github.com/Kewei0323/Codes/blob/master/CodingInterviews/40.%20%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E5%8C%B9%E9%85%8D.cpp)；
   
