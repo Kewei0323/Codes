@@ -68,4 +68,6 @@
 * 9月15日：
   * [按之字形顺序打印二叉树](https://github.com/Kewei0323/Codes/blob/master/CodingInterviews/46.%20%E6%8C%89%E4%B9%8B%E5%AD%97%E5%BD%A2%E9%A1%BA%E5%BA%8F%E6%89%93%E5%8D%B0%E4%BA%8C%E5%8F%89%E6%A0%91.cpp)；
   * [把二叉树打印出多行](https://github.com/Kewei0323/Codes/blob/master/CodingInterviews/47.%20%E6%8A%8A%E4%BA%8C%E5%8F%89%E6%A0%91%E6%89%93%E5%8D%B0%E5%87%BA%E5%A4%9A%E8%A1%8C.cpp)；
+  * [序列化二叉树](https://github.com/Kewei0323/Codes/blob/master/CodingInterviews/48.%20%E5%BA%8F%E5%88%97%E5%8C%96%E4%BA%8C%E5%8F%89%E6%A0%91.cpp)；
+  
   
